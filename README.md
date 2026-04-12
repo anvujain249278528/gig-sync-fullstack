@@ -1,4 +1,3 @@
-# 🌐 Gig Sync – Fullstack Project (In Progress)
 
 # 🌐 Gig Sync – Fullstack Project (In Progress)
 
