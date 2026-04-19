@@ -1,39 +1,55 @@
+🌐 **Gig Sync – Fullstack Project (In Progress)**
 
-# 🌐 Gig Sync – Fullstack Project (In Progress)
+I’m currently building **Gig Sync**, a fullstack web application as part of a hands-on workshop to gain practical development experience.
 
-This project is part of a hands-on workshop where I am building a fullstack web application step-by-step.
+So far, I’ve focused on designing and building a responsive frontend using Lovable, while temporarily using its built-in cloud database for prototyping. Backend and external database integration are planned next.
 
-Currently focused on frontend development using Lovable, with backend and database integration planned in upcoming phases.
+---
 
-## 🎯 Current Status
-✅ Frontend completed using Lovable  
-⏳ Backend and database integration in progress  
+## 🎯 Current Progress
+
+✅ Frontend completed using Lovable
+✅ Initial data handling using Lovable cloud database
+⏳ Backend integration in progress
+⏳ External database integration (Supabase) coming next
+
+---
 
 ## 🛠️ Tech Stack
--Frontend: Lovable (UI design, layout, and responsiveness)
-- Backend: (Coming soon)
-- Database: (Coming soon)
 
-## Screenshots
-### 🏠 Homepage
-<img width="1894" height="826" alt="HomepageUI" src="https://github.com/user-attachments/assets/126f8041-2622-4428-8c9b-f2a71eb8e711" />
+* **Frontend:** Lovable (UI design, layout, responsiveness)
+* **Backend:** In progress
+* **Database:** Lovable Cloud (current), Supabase (planned)
 
-### ⚙️ Features & Pricing
-
-<img width="531" height="806" alt="Features&Pricing" src="https://github.com/user-attachments/assets/b21bb936-c000-4ca0-8e0a-7fd512b83d4e" />
-
+---
 
 ## ✨ Features
-- Responsive design
-- Clean and modern UI
-- User-friendly interface
 
-## 🚀 Current Status
-- ✅ Frontend completed
-- ⏳ Backend integration in progress
-- ⏳ Database setup pending
+* Responsive and modern UI
+* Clean and intuitive user interface
+* Structured layout for scalability
+* Initial data handling for prototyping
 
-## 🔄 Future Improvements
-- Backend integration
-- Database connectivity
-- User authentication
+---
+
+## 🔍 What I’m Learning
+
+* Building real-world UI workflows
+* Understanding data flow between frontend and backend
+* Working with cloud-based databases
+* Preparing for fullstack integration
+
+---
+
+## 🚀 Next Steps
+
+* Connect backend services
+* Migrate from Lovable DB to Supabase
+* Implement user authentication
+* Enable dynamic, real-time data handling
+
+---
+
+📌 This project is actively evolving, and I’m documenting my progress as I learn.
+Would appreciate any feedback or suggestions!
+
